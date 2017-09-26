@@ -1,0 +1,18 @@
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\bin\Debug\_5.Diagrama_Voronoi.exe.config
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\5. Diagrama Voronoi.csprojResolveAssemblyReference.cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.Form1.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.Properties.Resources.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\5. Diagrama Voronoi.csproj.GenerateResource.Cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\bin\Debug\_5.Diagrama_Voronoi.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\bin\Debug\_5.Diagrama_Voronoi.pdb
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\5. Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.pdb
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\bin\Debug\_5.Diagrama_Voronoi.exe.config
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.exe
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.pdb
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\bin\Debug\_5.Diagrama_Voronoi.exe
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\bin\Debug\_5.Diagrama_Voronoi.pdb
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\5. Diagrama Voronoi.csprojResolveAssemblyReference.cache
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.Form1.resources
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\_5.Diagrama_Voronoi.Properties.Resources.resources
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Diagrama Voronoi\5. Diagrama Voronoi\obj\Debug\5. Diagrama Voronoi.csproj.GenerateResource.Cache

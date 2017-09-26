@@ -1,0 +1,24 @@
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\Tema nr. 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem II\Grafica pe calculator\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ghostyk\Desktop\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ghostyk\Desktop\Facultate\Degeratu\Tema nr. 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ghostyk\Desktop\Facultate\Degeratu\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ghostyk\Desktop\Facultate\Degeratu\Tema nr. 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

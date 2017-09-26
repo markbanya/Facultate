@@ -1,0 +1,14 @@
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\MainWindow.g.cs
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\App.g.cs
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS_MarkupCompile.cache
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS_MarkupCompile.lref
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\MainWindow.baml
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS.g.resources
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+C:\Users\Ghostyk\Desktop\JARVIS\JARVIS\obj\Debug\JARVIS.pdb

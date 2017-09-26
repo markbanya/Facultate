@@ -1,0 +1,36 @@
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe.config
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.pdb
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.csprojResolveAssemblyReference.cache
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm_Graham.Form1.resources
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm_Graham.Properties.Resources.resources
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.csproj.GenerateResource.Cache
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.exe
+C:\Users\Puscas\Desktop\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.pdb
+C:\Users\Puscas\Desktop\Diverse\Convex HULL\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe.config
+C:\Users\Puscas\Desktop\Diverse\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.exe
+C:\Users\Puscas\Desktop\Diverse\Convex HULL\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.pdb
+C:\Users\Puscas\Desktop\Geometrie computationala\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe.config
+C:\Users\Puscas\Desktop\Geometrie computationala\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.exe
+C:\Users\Puscas\Desktop\Geometrie computationala\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.pdb
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe.config
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.exe
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.pdb
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.pdb
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.csprojResolveAssemblyReference.cache
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm_Graham.Form1.resources
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm_Graham.Properties.Resources.resources
+C:\Users\catap\Desktop\Probleme Geometrie Comp\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.csproj.GenerateResource.Cache
+C:\Users\Adi\Desktop\Faculta\Gemoetrie\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe.config
+C:\Users\Adi\Desktop\Faculta\Gemoetrie\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.exe
+C:\Users\Adi\Desktop\Faculta\Gemoetrie\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.pdb
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe.config
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.exe
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.pdb
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.exe
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\bin\Debug\Algoritm Graham.pdb
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.csprojResolveAssemblyReference.cache
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm_Graham.Form1.resources
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm_Graham.Properties.Resources.resources
+D:\Downloads\Gemoetrie (2)\Algoritm Graham\Algoritm Graham\obj\Debug\Algoritm Graham.csproj.GenerateResource.Cache

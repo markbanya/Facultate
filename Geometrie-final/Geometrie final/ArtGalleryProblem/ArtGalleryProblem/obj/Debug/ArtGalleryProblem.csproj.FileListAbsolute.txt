@@ -1,0 +1,28 @@
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.exe
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.pdb
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csprojResolveAssemblyReference.cache
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.AboutBox.resources
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Form1.resources
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Properties.Resources.resources
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.GenerateResource.Cache
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.exe
+C:\Users\Beto\Desktop\New folder\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.pdb
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.exe
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.pdb
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.exe
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.pdb
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.AboutBox.resources
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Form1.resources
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Properties.Resources.resources
+C:\Users\Adi\Desktop\Triangulare\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.GenerateResource.Cache
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.exe.config
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.exe
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.pdb
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.exe
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.pdb
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csprojResolveAssemblyReference.cache
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.AboutBox.resources
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Form1.resources
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Properties.Resources.resources
+C:\Users\catap\Desktop\Probleme Geometrie Comp\3. ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.GenerateResource.Cache

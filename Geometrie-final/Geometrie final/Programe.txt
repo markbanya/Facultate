@@ -1,0 +1,6 @@
+1. Algoritmul lui Jarvis
+2. Algoritmul lui Graham
+3. Triangularea unui poligon simplu prin otectomie
+4. Triangularea unui poligon monoton
+5. Constructia diagramei Voronoi
+6. Triangularea Delaunay

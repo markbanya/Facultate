@@ -1,0 +1,18 @@
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\bin\Debug\Acoperire complexe in plan.exe.config
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\bin\Debug\Acoperire complexe in plan.exe
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\bin\Debug\Acoperire complexe in plan.pdb
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.csprojResolveAssemblyReference.cache
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire_complexe_in_plan.Form1.resources
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire_complexe_in_plan.Properties.Resources.resources
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.csproj.GenerateResource.Cache
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.exe
+C:\Users\Tudu\Desktop\Proiect\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.pdb
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\bin\Debug\Acoperire complexe in plan.exe.config
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.exe
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.pdb
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\bin\Debug\Acoperire complexe in plan.exe
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\bin\Debug\Acoperire complexe in plan.pdb
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.csprojResolveAssemblyReference.cache
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire_complexe_in_plan.Form1.resources
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire_complexe_in_plan.Properties.Resources.resources
+C:\Users\Ghostyk\Desktop\Facultate\Acoperire complexe in plan\Acoperire complexe in plan\obj\Debug\Acoperire complexe in plan.csproj.GenerateResource.Cache

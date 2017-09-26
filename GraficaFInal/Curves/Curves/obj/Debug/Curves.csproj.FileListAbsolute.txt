@@ -1,0 +1,8 @@
+C:\Users\Ghostyk\Desktop\Curves\Curves\bin\Debug\Curves.exe
+C:\Users\Ghostyk\Desktop\Curves\Curves\bin\Debug\Curves.pdb
+C:\Users\Ghostyk\Desktop\Curves\Curves\obj\Debug\Curves.csprojResolveAssemblyReference.cache
+C:\Users\Ghostyk\Desktop\Curves\Curves\obj\Debug\Curves.Form1.resources
+C:\Users\Ghostyk\Desktop\Curves\Curves\obj\Debug\Curves.Properties.Resources.resources
+C:\Users\Ghostyk\Desktop\Curves\Curves\obj\Debug\Curves.csproj.GenerateResource.Cache
+C:\Users\Ghostyk\Desktop\Curves\Curves\obj\Debug\Curves.exe
+C:\Users\Ghostyk\Desktop\Curves\Curves\obj\Debug\Curves.pdb

@@ -1,0 +1,9 @@
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\bin\Debug\_4.TriangularePoligonMonoton.exe.config
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\obj\Debug\4. TriangularePoligonMonoton.csprojResolveAssemblyReference.cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\obj\Debug\_4.TriangularePoligonMonoton.Form1.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\obj\Debug\_4.TriangularePoligonMonoton.Properties.Resources.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\obj\Debug\4. TriangularePoligonMonoton.csproj.GenerateResource.Cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\bin\Debug\_4.TriangularePoligonMonoton.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\bin\Debug\_4.TriangularePoligonMonoton.pdb
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\obj\Debug\_4.TriangularePoligonMonoton.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\4. TriangularePoligonMonoton\4. TriangularePoligonMonoton\obj\Debug\_4.TriangularePoligonMonoton.pdb

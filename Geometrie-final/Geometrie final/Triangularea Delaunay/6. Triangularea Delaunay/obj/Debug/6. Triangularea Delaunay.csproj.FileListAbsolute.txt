@@ -1,0 +1,12 @@
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\bin\Debug\_6.Triangularea_Delaunay.exe.config
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\bin\Debug\_6.Triangularea_Delaunay.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\bin\Debug\_6.Triangularea_Delaunay.pdb
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\6. Triangularea Delaunay.csprojResolveAssemblyReference.cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\_6.Triangularea_Delaunay.Form1.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\_6.Triangularea_Delaunay.Properties.Resources.resources
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\6. Triangularea Delaunay.csproj.GenerateResource.Cache
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\_6.Triangularea_Delaunay.exe
+D:\Utilizator Windows8\Documents\Visual Studio 2015\Projects\Anul II\Sem I\Geometrie final\6. Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\_6.Triangularea_Delaunay.pdb
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Triangularea Delaunay\6. Triangularea Delaunay\bin\Debug\_6.Triangularea_Delaunay.exe.config
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\_6.Triangularea_Delaunay.exe
+C:\Users\Ghostyk\Desktop\Facultate\Geometrie-final\Geometrie final\Triangularea Delaunay\6. Triangularea Delaunay\obj\Debug\_6.Triangularea_Delaunay.pdb

@@ -1,0 +1,73 @@
+﻿<Window x:Class="runWPFrun.MainWindow"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com" 
+    Title="The Olympics" 
+    xmlns:local="clr-namespace:runWPFrun" 
+    Background="White"
+    Width="710" Height="710" 
+    WindowStartupLocation="CenterScreen"
+    FontSize="13"
+        >
+
+    <Grid RenderTransformOrigin="2.319,0.526">
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources/Background.jpg" Opacity="0.75" />
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <!-- The top row is for the race track. -->
+            <RowDefinition Height="*" />
+            <!-- The bottom row is for the command strip. -->
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.Resources>
+            <ResourceDictionary>
+                <!-- Import the resource dictionary which contains the DataTemplate for the RacePerson class. -->
+                <ResourceDictionary.MergedDictionaries>
+                    <ResourceDictionary Source="Resources/RuntDataTemplate.xaml"/>
+                </ResourceDictionary.MergedDictionaries>
+
+           
+            </ResourceDictionary>
+        </Grid.Resources>
+
+        <!-- The 'Race Track' area. -->
+        <ItemsControl x:Name="raceTrack" 
+      Grid.Row="0" 
+      HorizontalAlignment="Stretch"     
+      Margin="8" 
+      VerticalAlignment="Center"
+      />
+
+        <!-- The 'Command Strip' area -->
+        <Border Grid.Row="1" BorderBrush="Black" BorderThickness="1" CornerRadius="8" Margin="12,4">
+            <!-- The background of the command strip area is set via an inline resource. -->
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1" Opacity="0.8">
+                    <GradientStop Color="#FFD6DA82" Offset="0" />
+                    <GradientStop Color="#FFF0FF58" Offset="0.7" />
+                    <GradientStop Color="Yellow" Offset="0.95" />
+                    <GradientStop Color="#EEEEEE" Offset="1" />
+                </LinearGradientBrush>
+            </Border.Background>
+            
+            <Grid>
+                <TextBlock Margin="10,4" HorizontalAlignment="Center">
+                    <Button x:Name="lnkStartNewRace" FontWeight="Bold">
+    <WrapPanel>
+        <TextBlock Foreground="Red">Start</TextBlock>
+        <TextBlock Foreground="Yellow">New</TextBlock>
+        <TextBlock Foreground="Blue">Game</TextBlock>
+        
+    </WrapPanel>
+</Button>
+
+         
+                </TextBlock>
+            </Grid>
+        </Border>
+    </Grid>
+
+</Window>

@@ -1,0 +1,25 @@
+﻿<!-- This resource dictionary contains the Style applied to each person's race pit. -->
+<ResourceDictionary 
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:gif="http://wpfanimatedgif.codeplex.com" 
+  >
+    <Style x:Key="RunPitBorderStyle" TargetType="Border">
+        <Style.Resources>
+            <LinearGradientBrush x:Key="RunPitBackgroundBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+                <GradientStop Color="#08000000" Offset="0.1" />
+                <GradientStop Color="#08000000" Offset="0.9" />
+            </LinearGradientBrush>
+            <LinearGradientBrush x:Key="RunPitBorderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+                <GradientStop Color="#18000000" Offset="0.1" />
+                <GradientStop Color="#CC000000" Offset="0.9" />
+            </LinearGradientBrush>
+        </Style.Resources>
+
+        <Setter Property="Background" Value="{StaticResource RunPitBackgroundBrush}" />
+        <Setter Property="BorderBrush" Value="{StaticResource RunPitBorderBrush}" />
+        <Setter Property="BorderThickness" Value="1" />
+        <Setter Property="CornerRadius" Value="8" />
+        <Setter Property="Margin" Value="2,4" />
+    </Style>
+</ResourceDictionary>
